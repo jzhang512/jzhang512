@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jzhang512
 - 👀 I’m interested in AI and NLP.
-- 🌱 I’m currently learning Computer Science at Princeton University. 
+- 🌱 I’m currently an undergrad at Princeton University studying Computer Science . 
 - 📫 How to reach me: email me at jzhang007@yahoo.com! 
 
 <!---
